@@ -392,6 +392,13 @@ body {
     font-size: 1.2rem;
 }
 
+.cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
 .btn-store {
     background: #fff;
     color: #000;
